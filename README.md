@@ -1,4 +1,4 @@
-Crypter-tools - Personal tools for security on PC!
+Crypter-Tools - Personal tools for security on PC!
 
 # Tools 
 
@@ -24,3 +24,7 @@ sudo cpan install Rand::Urandom
 ```
 sudo ./Install.sh
 ```
+
+# Author
+
+Crypter-Tools developed by Ivan Trunaev, Russai, 2026.
