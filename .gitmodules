@@ -10,3 +10,6 @@
 [submodule "Strong-Random"]
 	path = Strong-Random
 	url = git@github.com:vsepohui/Strong-Random.git
+[submodule "librandom--"]
+	path = librandom--
+	url = https://github.com/vsepohui/librandom--
