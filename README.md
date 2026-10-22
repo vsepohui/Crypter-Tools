@@ -25,6 +25,17 @@ sudo cpan install Rand::Urandom
 sudo ./Install.sh
 ```
 
+# Usage
+
+Looking for:
+
+```
+man crypter
+man crypted-note
+man piped
+```
+
 # Author
 
 Crypter-Tools developed by Ivan Trunaev, Russia, 2026.
+
