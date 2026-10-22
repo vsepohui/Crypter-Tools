@@ -13,3 +13,6 @@
 [submodule "librandom--"]
 	path = librandom--
 	url = https://github.com/vsepohui/librandom--
+[submodule "libcrypter--"]
+	path = libcrypter--
+	url = git@github.com:vsepohui/libcrypter--.git
