@@ -19,7 +19,7 @@ git submodule update --init --recursive
 sudo cpan install Rand::Urandom
 ```
 
-# Install
+# Installation
 
 ```
 sudo ./Install.sh
