@@ -11,6 +11,7 @@ Crypter-Tools - Personal tools for security on PC!
 
 ```
 git submodule update --init --remote --recursive
+git pull --recurse-submodules 
 ```
 
 # Dependencies
