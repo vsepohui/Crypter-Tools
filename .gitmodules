@@ -1,0 +1,12 @@
+[submodule "Crypter"]
+	path = Crypter
+	url = git@github.com:vsepohui/Crypter.git
+[submodule "crypted-note"]
+	path = crypted-note
+	url = git@github.com:vsepohui/crypted-note.git
+[submodule "piped"]
+	path = piped
+	url = git@github.com:vsepohui/piped.git
+[submodule "Strong-Random"]
+	path = Strong-Random
+	url = git@github.com:vsepohui/Strong-Random.git
