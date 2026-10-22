@@ -10,7 +10,7 @@ Crypter-Tools - Personal tools for security on PC!
 # Prepare code
 
 ```
-git submodule update --init --recursive
+git submodule update --init --remote --recursive
 ```
 
 # Dependencies
