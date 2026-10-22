@@ -14,12 +14,6 @@ git submodule update --init --remote --recursive
 git pull --recurse-submodules 
 ```
 
-# Dependencies
-
-```
-sudo cpan install Rand::Urandom
-```
-
 # Installation
 
 ```
