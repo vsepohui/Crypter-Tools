@@ -39,3 +39,10 @@ man piped
 
 Crypter-Tools developed by Ivan Trunaev, Russia, 2026.
 
+# Licence 
+
+Commercial support by Author for Open Source!
+
+Contact <ivan@trunaev.ru>
+
+
