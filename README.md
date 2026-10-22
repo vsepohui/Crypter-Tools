@@ -27,4 +27,4 @@ sudo ./Install.sh
 
 # Author
 
-Crypter-Tools developed by Ivan Trunaev, Russai, 2026.
+Crypter-Tools developed by Ivan Trunaev, Russia, 2026.
