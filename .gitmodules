@@ -11,8 +11,8 @@
 	path = Strong-Random
 	url = git@github.com:vsepohui/Strong-Random.git
 [submodule "librandom--"]
-	path = librandom--
+	path = c++/librandom--
 	url = https://github.com/vsepohui/librandom--
 [submodule "libcrypter--"]
-	path = libcrypter--
+	path = c++/libcrypter--
 	url = git@github.com:vsepohui/libcrypter--.git
